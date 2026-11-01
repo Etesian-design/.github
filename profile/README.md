@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><b>The Nokia N9, re-envisioned for every screen.</b></p>
+<p align="center"><b>One calm, gesture-first interface for every screen.</b></p>
 
 <p align="center">
   <a href="https://etesian-design.com">etesian-design.com</a> · <a href="https://etesian-design.com/desktop">Try it in your browser</a>
@@ -13,8 +13,8 @@
 
 ---
 
-Calm, content-first and built around gestures: the ideas that made the N9 special, taken further and brought to the
-desktop, to phones and to the web, from one design language.
+Etesian runs on the KDE Plasma desktop, on LineageOS phones and on the web, from one design language. Its influence
+is the Nokia N9's Swipe UI, re-envisioned for how we use our screens today.
 
 | Project | What it is |
 |---|---|
