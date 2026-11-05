@@ -13,8 +13,8 @@
 
 ---
 
-Etesian runs on the KDE Plasma desktop, on LineageOS phones and on the web, from one design language. Its influence
-is the Nokia N9's Swipe UI, re-envisioned for how we use our screens today.
+Etesian is a cross-platform design language. It runs on the KDE Plasma desktop, on any phone running LineageOS and on
+the web, with [Phorepoc OS](https://github.com/Phorepoc) planned later. Its influence is the Nokia N9's Swipe UI, re-envisioned for how we use our screens today.
 
 | Project | What it is |
 |---|---|
@@ -24,5 +24,8 @@ is the Nokia N9's Swipe UI, re-envisioned for how we use our screens today.
 | [**Website**](https://github.com/Etesian-design/website) | etesian-design.com: a working Etesian desktop and phone in the browser. |
 
 Everything is in development, and there are no downloads yet.
+
+[Cloud Companion](https://github.com/Phorepoc/cloud-companion) is a Phorepoc project, and one of the places where Phorepoc and Etesian meet:
+its web desktop wears the Etesian look, and it works with any device, old or new, or none at all.
 
 <sub>Etesian is an independent project, not affiliated with Nokia, and ships no Nokia files.</sub>
